@@ -1,4 +1,4 @@
-import { Routes, route, Route } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import LearnHOC from './pages/LearnHOC'
 function App() {
 
